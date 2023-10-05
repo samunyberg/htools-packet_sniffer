@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 scapy = "*"
+scapy-http = "*"
 
 [requires]
 python_version = "3.10"
